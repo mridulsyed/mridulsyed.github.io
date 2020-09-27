@@ -1,0 +1,36 @@
+Uri: https://mridulsyed11.wixsite.com/website/
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\index.htm
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/about
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\about.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/education
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\education.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/experience
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\experience.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/skills
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\skills.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/achievement
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\achievement.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/interest
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\interest.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/cv
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\cv.html
+Content Type: text/html
+
+Uri: https://mridulsyed11.wixsite.com/website/contact
+File Name: c:\Downloaded Web Sites\mridulsyed11.wixsite.com\website\contact.html
+Content Type: text/html
+
